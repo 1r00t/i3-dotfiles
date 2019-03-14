@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/snowforest.png",
+    "alpha": "90",
+    "special": {
+        "background": "#0c0f16",
+        "foreground": "#dbdde2",
+        "cursor": "#dbdde2"
+    },
+    "colors": {
+        "color0": "#0c0f16",
+        "color1": "#858C9A",
+        "color2": "#9299A7",
+        "color3": "#9CA2B0",
+        "color4": "#A6ACB9",
+        "color5": "#B3B9C5",
+        "color6": "#BDC2CD",
+        "color7": "#dbdde2",
+        "color8": "#999a9e",
+        "color9": "#858C9A",
+        "color10": "#9299A7",
+        "color11": "#9CA2B0",
+        "color12": "#A6ACB9",
+        "color13": "#B3B9C5",
+        "color14": "#BDC2CD",
+        "color15": "#dbdde2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/Dark_Ivy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080303",
+        "foreground": "#cdcccd",
+        "cursor": "#cdcccd"
+    },
+    "colors": {
+        "color0": "#080303",
+        "color1": "#635B5A",
+        "color2": "#67605F",
+        "color3": "#736D6D",
+        "color4": "#827D7C",
+        "color5": "#84807F",
+        "color6": "#918D8D",
+        "color7": "#cdcccd",
+        "color8": "#8f8e8f",
+        "color9": "#635B5A",
+        "color10": "#67605F",
+        "color11": "#736D6D",
+        "color12": "#827D7C",
+        "color13": "#84807F",
+        "color14": "#918D8D",
+        "color15": "#cdcccd"
+    }
+}

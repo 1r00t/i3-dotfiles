@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/symbolics-2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#343434",
+        "foreground": "#dbe0d8",
+        "cursor": "#dbe0d8"
+    },
+    "colors": {
+        "color0": "#343434",
+        "color1": "#8B9189",
+        "color2": "#9CA399",
+        "color3": "#A1A99E",
+        "color4": "#ACB4A8",
+        "color5": "#BBC4B6",
+        "color6": "#C2CBBD",
+        "color7": "#dbe0d8",
+        "color8": "#999c97",
+        "color9": "#8B9189",
+        "color10": "#9CA399",
+        "color11": "#A1A99E",
+        "color12": "#ACB4A8",
+        "color13": "#BBC4B6",
+        "color14": "#C2CBBD",
+        "color15": "#dbe0d8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/citystreet.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0c100f",
+        "foreground": "#e4c9ab",
+        "cursor": "#e4c9ab"
+    },
+    "colors": {
+        "color0": "#0c100f",
+        "color1": "#2B4A53",
+        "color2": "#5F5C56",
+        "color3": "#B8433A",
+        "color4": "#966654",
+        "color5": "#6E876F",
+        "color6": "#A09670",
+        "color7": "#e4c9ab",
+        "color8": "#9f8c77",
+        "color9": "#2B4A53",
+        "color10": "#5F5C56",
+        "color11": "#B8433A",
+        "color12": "#966654",
+        "color13": "#6E876F",
+        "color14": "#A09670",
+        "color15": "#e4c9ab"
+    }
+}

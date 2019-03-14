@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/lava.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#0C191C",
+        "foreground": "#f1bba8",
+        "cursor": "#f1bba8"
+    },
+    "colors": {
+        "color0": "#0C191C",
+        "color1": "#CC3A2E",
+        "color2": "#D34936",
+        "color3": "#EA5239",
+        "color4": "#A64B42",
+        "color5": "#E15C46",
+        "color6": "#F36E4E",
+        "color7": "#f1bba8",
+        "color8": "#a88275",
+        "color9": "#CC3A2E",
+        "color10": "#D34936",
+        "color11": "#EA5239",
+        "color12": "#A64B42",
+        "color13": "#E15C46",
+        "color14": "#F36E4E",
+        "color15": "#f1bba8"
+    }
+}

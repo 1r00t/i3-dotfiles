@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/adwaita-morning.jpg",
+    "alpha": "0.8",
+    "special": {
+        "background": "#46383f",
+        "foreground": "#d6d1d7",
+        "cursor": "#d6d1d7"
+    },
+    "colors": {
+        "color0": "#46383f",
+        "color1": "#9C9EA1",
+        "color2": "#AE9AA6",
+        "color3": "#9EA2A2",
+        "color4": "#B4ABAC",
+        "color5": "#C1B2BC",
+        "color6": "#C1C1B0",
+        "color7": "#d6d1d7",
+        "color8": "#959296",
+        "color9": "#9C9EA1",
+        "color10": "#AE9AA6",
+        "color11": "#9EA2A2",
+        "color12": "#B4ABAC",
+        "color13": "#C1B2BC",
+        "color14": "#C1C1B0",
+        "color15": "#d6d1d7"
+    }
+}

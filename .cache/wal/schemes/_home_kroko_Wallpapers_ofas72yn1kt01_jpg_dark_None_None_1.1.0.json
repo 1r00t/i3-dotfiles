@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/ofas72yn1kt01.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#061B1D",
+        "foreground": "#c4b2c2",
+        "cursor": "#c4b2c2"
+    },
+    "colors": {
+        "color0": "#061B1D",
+        "color1": "#194C5E",
+        "color2": "#5B4157",
+        "color3": "#982C33",
+        "color4": "#A3314F",
+        "color5": "#BF4858",
+        "color6": "#465C90",
+        "color7": "#c4b2c2",
+        "color8": "#897c87",
+        "color9": "#194C5E",
+        "color10": "#5B4157",
+        "color11": "#982C33",
+        "color12": "#A3314F",
+        "color13": "#BF4858",
+        "color14": "#465C90",
+        "color15": "#c4b2c2"
+    }
+}

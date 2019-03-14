@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/lavatree.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#08090A",
+        "foreground": "#acbcc2",
+        "cursor": "#acbcc2"
+    },
+    "colors": {
+        "color0": "#08090A",
+        "color1": "#2F4853",
+        "color2": "#2D5765",
+        "color3": "#505B65",
+        "color4": "#B02509",
+        "color5": "#E71E03",
+        "color6": "#5D7687",
+        "color7": "#acbcc2",
+        "color8": "#788387",
+        "color9": "#2F4853",
+        "color10": "#2D5765",
+        "color11": "#505B65",
+        "color12": "#B02509",
+        "color13": "#E71E03",
+        "color14": "#5D7687",
+        "color15": "#acbcc2"
+    }
+}

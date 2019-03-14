@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/Road.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1115",
+        "foreground": "#ddd4d0",
+        "cursor": "#ddd4d0"
+    },
+    "colors": {
+        "color0": "#0c1115",
+        "color1": "#9D714D",
+        "color2": "#C4915C",
+        "color3": "#406C8C",
+        "color4": "#857D85",
+        "color5": "#678DAA",
+        "color6": "#A49B9B",
+        "color7": "#ddd4d0",
+        "color8": "#9a9491",
+        "color9": "#9D714D",
+        "color10": "#C4915C",
+        "color11": "#406C8C",
+        "color12": "#857D85",
+        "color13": "#678DAA",
+        "color14": "#A49B9B",
+        "color15": "#ddd4d0"
+    }
+}

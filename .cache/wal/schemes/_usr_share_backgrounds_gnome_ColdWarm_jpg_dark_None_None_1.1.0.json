@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/ColdWarm.jpg",
+    "alpha": "0.1",
+    "special": {
+        "background": "#101315",
+        "foreground": "#cbcfdb",
+        "cursor": "#cbcfdb"
+    },
+    "colors": {
+        "color0": "#101315",
+        "color1": "#3F6180",
+        "color2": "#67738C",
+        "color3": "#7787A0",
+        "color4": "#7E99C0",
+        "color5": "#9498A9",
+        "color6": "#D4BEB3",
+        "color7": "#cbcfdb",
+        "color8": "#8e9099",
+        "color9": "#3F6180",
+        "color10": "#67738C",
+        "color11": "#7787A0",
+        "color12": "#7E99C0",
+        "color13": "#9498A9",
+        "color14": "#D4BEB3",
+        "color15": "#cbcfdb"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/Wood.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0403",
+        "foreground": "#d4b1a2",
+        "cursor": "#d4b1a2"
+    },
+    "colors": {
+        "color0": "#0a0403",
+        "color1": "#5D4135",
+        "color2": "#6E4733",
+        "color3": "#4E3C43",
+        "color4": "#6F5048",
+        "color5": "#88563A",
+        "color6": "#96654D",
+        "color7": "#d4b1a2",
+        "color8": "#947b71",
+        "color9": "#5D4135",
+        "color10": "#6E4733",
+        "color11": "#4E3C43",
+        "color12": "#6F5048",
+        "color13": "#88563A",
+        "color14": "#96654D",
+        "color15": "#d4b1a2"
+    }
+}

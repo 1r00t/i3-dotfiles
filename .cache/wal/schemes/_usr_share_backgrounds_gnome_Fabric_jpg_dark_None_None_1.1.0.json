@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/Fabric.jpg",
+    "alpha": "0.1",
+    "special": {
+        "background": "#081E37",
+        "foreground": "#cad2df",
+        "cursor": "#cad2df"
+    },
+    "colors": {
+        "color0": "#081E37",
+        "color1": "#677791",
+        "color2": "#73839C",
+        "color3": "#7A8AA4",
+        "color4": "#8797B1",
+        "color5": "#92A2BC",
+        "color6": "#9AAAC4",
+        "color7": "#cad2df",
+        "color8": "#8d939c",
+        "color9": "#677791",
+        "color10": "#73839C",
+        "color11": "#7A8AA4",
+        "color12": "#8797B1",
+        "color13": "#92A2BC",
+        "color14": "#9AAAC4",
+        "color15": "#cad2df"
+    }
+}

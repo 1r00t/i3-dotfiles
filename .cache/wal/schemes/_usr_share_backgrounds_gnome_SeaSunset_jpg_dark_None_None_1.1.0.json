@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/SeaSunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100d0f",
+        "foreground": "#f3e1cb",
+        "cursor": "#f3e1cb"
+    },
+    "colors": {
+        "color0": "#100d0f",
+        "color1": "#D37856",
+        "color2": "#A9886E",
+        "color3": "#E9965D",
+        "color4": "#F6AF6F",
+        "color5": "#FFC975",
+        "color6": "#FECD90",
+        "color7": "#f3e1cb",
+        "color8": "#aa9d8e",
+        "color9": "#D37856",
+        "color10": "#A9886E",
+        "color11": "#E9965D",
+        "color12": "#F6AF6F",
+        "color13": "#FFC975",
+        "color14": "#FECD90",
+        "color15": "#f3e1cb"
+    }
+}

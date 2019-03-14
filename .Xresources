@@ -1,0 +1,7 @@
+URxvt*scrollBar: false
+URxvt*secondaryScroll: true
+URxvt*font: xft:DejaVu Sans Mono:size=10
+URxvt*internalBorder: 25
+URxvt*background: [80]#353535
+URxvt*depth: 32
+

@@ -1,0 +1,21 @@
+set $wallpaper /home/kroko/Wallpapers/wetcitystreet.png
+
+set $background #0a1217
+set $foreground #ced0d1
+
+set $color0 #0a1217
+set $color1 #5A5D60
+set $color2 #A6583F
+set $color3 #C79B53
+set $color4 #376C93
+set $color5 #AA6E8C
+set $color6 #5896BB
+set $color7 #ced0d1
+set $color8 #909192
+set $color9 #5A5D60
+set $color10 #A6583F
+set $color11 #C79B53
+set $color12 #376C93
+set $color13 #AA6E8C
+set $color14 #5896BB
+set $color15 #ced0d1

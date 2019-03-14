@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/turbo.png",
+    "alpha": "90",
+    "special": {
+        "background": "#151037",
+        "foreground": "#efc1d2",
+        "cursor": "#efc1d2"
+    },
+    "colors": {
+        "color0": "#151037",
+        "color1": "#E6288A",
+        "color2": "#EC4E98",
+        "color3": "#EC6CA4",
+        "color4": "#3A9BA4",
+        "color5": "#4CAEB0",
+        "color6": "#49C4BC",
+        "color7": "#efc1d2",
+        "color8": "#a78793",
+        "color9": "#E6288A",
+        "color10": "#EC4E98",
+        "color11": "#EC6CA4",
+        "color12": "#3A9BA4",
+        "color13": "#4CAEB0",
+        "color14": "#49C4BC",
+        "color15": "#efc1d2"
+    }
+}

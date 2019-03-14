@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/Sandstone.jpg",
+    "alpha": "0.1",
+    "special": {
+        "background": "#120000",
+        "foreground": "#e5bdaf",
+        "cursor": "#e5bdaf"
+    },
+    "colors": {
+        "color0": "#120000",
+        "color1": "#9C422F",
+        "color2": "#AA4B36",
+        "color3": "#BA5C45",
+        "color4": "#C96D53",
+        "color5": "#D0785E",
+        "color6": "#BE846B",
+        "color7": "#e5bdaf",
+        "color8": "#a0847a",
+        "color9": "#9C422F",
+        "color10": "#AA4B36",
+        "color11": "#BA5C45",
+        "color12": "#C96D53",
+        "color13": "#D0785E",
+        "color14": "#BE846B",
+        "color15": "#e5bdaf"
+    }
+}

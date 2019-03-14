@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/adwaita-day.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#123a49",
+        "foreground": "#b9c9d2",
+        "cursor": "#b9c9d2"
+    },
+    "colors": {
+        "color0": "#123a49",
+        "color1": "#3C99C5",
+        "color2": "#4F98C5",
+        "color3": "#6695C4",
+        "color4": "#58A8CA",
+        "color5": "#69A7C8",
+        "color6": "#849EB8",
+        "color7": "#b9c9d2",
+        "color8": "#818c93",
+        "color9": "#3C99C5",
+        "color10": "#4F98C5",
+        "color11": "#6695C4",
+        "color12": "#58A8CA",
+        "color13": "#69A7C8",
+        "color14": "#849EB8",
+        "color15": "#b9c9d2"
+    }
+}

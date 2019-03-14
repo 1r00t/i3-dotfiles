@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kroko/Wallpapers/web.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#031934",
+        "foreground": "#bdafc1",
+        "cursor": "#bdafc1"
+    },
+    "colors": {
+        "color0": "#031934",
+        "color1": "#504B74",
+        "color2": "#685378",
+        "color3": "#385384",
+        "color4": "#625D87",
+        "color5": "#716A8E",
+        "color6": "#787990",
+        "color7": "#bdafc1",
+        "color8": "#847a87",
+        "color9": "#504B74",
+        "color10": "#685378",
+        "color11": "#385384",
+        "color12": "#625D87",
+        "color13": "#716A8E",
+        "color14": "#787990",
+        "color15": "#bdafc1"
+    }
+}

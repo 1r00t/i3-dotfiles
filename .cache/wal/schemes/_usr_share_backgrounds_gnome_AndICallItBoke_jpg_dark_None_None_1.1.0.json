@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/usr/share/backgrounds/gnome/AndICallItBoke.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d0719",
+        "foreground": "#f2c6ee",
+        "cursor": "#f2c6ee"
+    },
+    "colors": {
+        "color0": "#1d0719",
+        "color1": "#762F84",
+        "color2": "#A5348E",
+        "color3": "#D638A5",
+        "color4": "#EB41BD",
+        "color5": "#F657D7",
+        "color6": "#DD8ABA",
+        "color7": "#f2c6ee",
+        "color8": "#a98aa6",
+        "color9": "#762F84",
+        "color10": "#A5348E",
+        "color11": "#D638A5",
+        "color12": "#EB41BD",
+        "color13": "#F657D7",
+        "color14": "#DD8ABA",
+        "color15": "#f2c6ee"
+    }
+}
